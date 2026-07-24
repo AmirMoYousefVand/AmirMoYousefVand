@@ -20,14 +20,14 @@ I manage **Amir Formula**, a data analytics brand focused on Formula 1, where I 
 
 *   **Languages:** Python (Data Analysis, Scraping, Automation)
 *   **Libraries/Frameworks:** Flask, Tkinter, Matplotlib, pandas, fastf1
-*   **Data & Sports:** F1 Telemetry mapping, Live-score football bots (ESPN scraping), Sim Racing modding (Assetto Corsa)
-*   **Interests:** Cryptocurrency tracking (Tron), Track limits & pit lane speed modeling.
+*   **Data & Sports:** F1 Telemetry mapping, Live-score football bots (ESPN scraping)
+*   **Interests:** Classic Persian pop , Sports and Nature .
 
 ---
 
 ### 🏎️ Featured Work & Interests
 
-*   **F1 Telemetry & Analytics:** Building automated logic to map telemetry traces, analyze track limits, and calculate complex metrics like average section pit lane speeds.
+*   **F1 Telemetry & Analytics:** Developing Python tools for comprehensive race analysis, including telemetry comparisons, track dominance mapping, qualifying pace prediction, strategy modeling, and tracking session results.
 *   **Live Sports Dashboards:** Developing bots for live football match metrics with accurate historical data filtering. 
 *   **Physics:** Gearing up for the master's entrance exam (Esfand 1405), combining analytical thinking with scientific rigor.
 
